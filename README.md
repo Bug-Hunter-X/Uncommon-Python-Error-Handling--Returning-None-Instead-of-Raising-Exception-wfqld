@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon error handling approach in Python. The `bug.py` file shows how `None` is returned in case of exceptions, which is not always ideal.  The `bugSolution.py` file provides a more robust solution.
